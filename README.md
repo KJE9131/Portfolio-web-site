@@ -1,8 +1,15 @@
 # Portfolio-web-site
+포트폴리오 사이트 코드
+[URL] http://kje9131.dothome.co.kr/
 
-개인 포트폴리오 사이트에 대한 코드입니다.
+--
 
-[URL]
-http://kje9131.dothome.co.kr/
+# personal-project1
+개인 프로젝트 "산청군청" 코드
+[URL] https://github.com/KJE9131/personal-project1
 
-[
+--
+
+# personal-project2
+개인 프로젝트 "국립공주대학교" 코드
+[URL] https://github.com/KJE9131/personal-project2
