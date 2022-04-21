@@ -1,6 +1,6 @@
 # Portfolio-web-site
 포트폴리오 사이트 코드
-[URL] http://kje9131.dothome.co.kr/
+[URL] https://github.com/KJE9131/Portfolio-web-site
 
 --
 
