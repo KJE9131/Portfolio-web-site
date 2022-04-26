@@ -148,8 +148,8 @@ body {
   font-family: C24;
   font-size: 38px;
   position: absolute;
-  top: 210px;
-  left: 37%;
+  top: 300px;
+  left: 35%;
   padding-top: 0;
   animation: motion 1s linear 0s infinite alternate;
   line-height: 2;
@@ -1040,6 +1040,7 @@ body {
 #process2 {
   background: url(../images/process2_bg.png) no-repeat top;
   height: 5000px;
+  overflow: hidden;
 }
 
 #process2 .top {
@@ -1210,7 +1211,7 @@ body {
 }
 
 #process2 .cont4 {
-  margin-top: 50px;
+  margin-top: 100px;
   padding-left: 200px;
   padding-top: 152px;
   background: rgba(0, 0, 0, 0.6);
